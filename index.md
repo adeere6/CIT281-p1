@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Learning Objectives:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-p1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Gain experience accessing your operating system's command line interface (CLI)
+- Gain experience working with CLI commands
+- Gain experience working with Visual Studio Code (VSCode)
+- Gain experience writing and executing non-web server Node.js JavaScript code
+- Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project elements:
 
-### Markdown
+- Use the command line interface (CLI) of your operating system to create a number of folders
+- List the folders in a tree-like structure
+- Use the ping command, and practice using the break keyboard sequence
+- Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What I learned:
+In this project I learned how to use my command line and to create folders in a tree like structure. 
+![image](https://user-images.githubusercontent.com/83984264/120870954-3d82c280-c54f-11eb-8372-221c4090bd41.png)
 
-```markdown
-Syntax highlighted code block
+We also learned how to ping a domain and brush off our programing skills with a block of code that outputs the day of the week of the current day. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-p1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/83984264/120871094-93f00100-c54f-11eb-90db-2169c552e5d2.png)
